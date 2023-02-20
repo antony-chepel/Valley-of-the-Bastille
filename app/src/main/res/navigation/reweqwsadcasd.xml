@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_mother"
+    app:startDestination="@id/jjcjxjiocxjvihuhfd">
+
+    <fragment
+        android:id="@+id/jjcjxjiocxjvihuhfd"
+        android:name="com.hugogames.projectarnol.xxczcsc.xxvxvxhs.Saplslpxkoijuchd"
+        android:label="bbxhzhcjd"
+        tools:layout="@layout/bbybbuvhhuvfd" >
+        <action
+            android:id="@+id/ookxkokockosa"
+            app:destination="@id/mxmmncnnxjzjchudygd" />
+    </fragment>
+    <fragment
+        android:id="@+id/mxmmncnnxjzjchudygd"
+        android:name="com.hugogames.projectarnol.ewwesdad.Uysyssjihucgygfds"
+        android:label="vovkckovjidhus"
+        tools:layout="@layout/zxuhxijxjsgydgyw" >
+        <action
+            android:id="@+id/coxokcjiuvhhds"
+            app:destination="@id/nncjxjcikxijvjihufygd" />
+    </fragment>
+    <fragment
+        android:id="@+id/nncjxjcikxijvjihufygd"
+        android:name="com.hugogames.projectarnol.ewwesdad.Zoskasjijwhuhusdhu"
+        android:label="xooxkxkozkojicuhyf"
+        tools:layout="@layout/nncncjxjugygfyds" >
+        <action
+            android:id="@+id/mmxkxkzixjycgd"
+            app:destination="@id/bcbvcxvuhxhyugyvgyds" />
+    </fragment>
+    <fragment
+        android:id="@+id/bcbvcxvuhxhyugyvgyds"
+        android:name="com.hugogames.projectarnol.xxczcsc.Hjsusixkocskojid"
+        android:label="tysujiaijhuxuhzc"
+        tools:layout="@layout/eokkokowjisdhuw" >
+        <action
+            android:id="@+id/nncmxmmxkvhugfygygygdtfw"
+            app:destination="@id/qoqoqoqkosjixjihuchus" />
+    </fragment>
+    <fragment
+        android:id="@+id/qoqoqoqkosjixjihuchus"
+        android:name="com.hugogames.projectarnol.ewwesdad.Mlslsokxjicudhf"
+        android:label="nnooooqiwijsuhhuds"
+        tools:layout="@layout/uxixixushgyfgyfs" />
+</navigation>

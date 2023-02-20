@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027699313833",
+    "project_id": "valley-of-the-bastille",
+    "storage_bucket": "valley-of-the-bastille.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027699313833:android:4ae2a3ac2d5886cebfedb8",
+        "android_client_info": {
+          "package_name": "com.hugogames.projectarnol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027699313833-re09i726c62l5hek9s3aagqqbm045irm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbxAcsYLWKCGMwgP0kLWTtAY3xGSnQz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027699313833-re09i726c62l5hek9s3aagqqbm045irm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="facebook_app_id">535468228653455</string>
+    <string name="app_name">Valley of the Bastille</string>
+    <string name="facebook_client_token">0ab5071eb427024c3b7bfd668682a70d</string>
+    <string name="fb_login_protocol_scheme">fb535468228653455</string>
+
+
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/vb_f_bg"
+    android:layout_height="match_parent"
+    tools:context=".xxczcsc.xxvxvxhs.Gooowpqpkxijxuhzc">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/vb_f_b"
+        android:layout_marginTop="30dp"
+        android:text="Drag hero and collect all artifacts"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/siojadji"
+        android:layout_width="150dp"
+        android:elevation="10dp"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.71000004"
+        app:srcCompat="@drawable/vb_it_1" />
+
+    <ProgressBar
+        android:id="@+id/gokkosdokofkdosk"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:progressDrawable="@drawable/vb_pb"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/siojadji"
+        app:layout_constraintStart_toStartOf="@+id/siojadji" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/vb_f_b_it"
+        android:text="Your scores power"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/gokkosdokofkdosk"
+        app:layout_constraintStart_toStartOf="@+id/gokkosdokofkdosk"
+        app:layout_constraintTop_toBottomOf="@+id/gokkosdokofkdosk" />
+
+    <ImageView
+        android:id="@+id/oqkwkookwkoskod"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/vb_it_3" />
+
+    <ImageView
+        android:id="@+id/jxjnjnzcjijjidfj"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/vb_it_6" />
+
+    <ImageView
+        android:id="@+id/fjdfijidjickoxko"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="200dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/vb_it_7" />
+
+    <ImageView
+        android:id="@+id/nxznnjcs"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/vb_it_8" />
+
+    <ImageView
+        android:id="@+id/ygxgzygycgygygys"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/vb_it_4" />
+</androidx.constraintlayout.widget.ConstraintLayout>
